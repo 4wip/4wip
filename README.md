@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/564x/8e/29/4a/8e294a14425bae218fb99b8d72e11981.jpg"  />
-
-###
-
 <div align="left">
   <a href="https://www.youtube.com/channel/UCsSSvEAcougZuKYsJObMKKg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube%20Channel&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -14,6 +10,16 @@
     <img src="https://img.shields.io/static/v1?message=Discord%20Server&logo=discord&label=30&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="150" src="https://i.pinimg.com/564x/8e/29/4a/8e294a14425bae218fb99b8d72e11981.jpg"  />
+
+###
+
+<h1 align="left">Salut, je suis actif la plupart du temps pour me contacter décale sur le discord. Bon j'y vais</h1>
 
 ###
 
