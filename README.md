@@ -1,12 +1,29 @@
-<h1 align="center">Hi 👋, I'm 4wip</h1>
-<h3 align="center">A little C# developer from France</h3>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-- 🔭 I’m currently working on **C# Tool**
+###
 
-<h3 align="left">Mon serveur:</h3>
-<p align="left">
-<a href="https://discord.gg/https://discord.gg/nM8uFFdJj8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/nM8uFFdJj8" height="30" width="40" /></a>
-</p>
+<img align="right" height="200" src="https://i.pinimg.com/564x/8e/29/4a/8e294a14425bae218fb99b8d72e11981.jpg"  />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
+###
+
+<div align="left">
+  <a href="https://www.youtube.com/channel/UCsSSvEAcougZuKYsJObMKKg" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube%20Channel&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://discord.gg/A5bfyv3AzB" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord%20Server&logo=discord&label=30&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/4wip/4wip/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=4wip&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4wip&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
