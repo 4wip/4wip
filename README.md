@@ -19,7 +19,7 @@
 
 ###
 
-<h1 align="left">Salut, je suis actif la plupart du temps pour me contacter décale sur le discord. Bon j'y vais</h1>
+
 
 ###
 
