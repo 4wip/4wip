@@ -11,14 +11,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://i.pinimg.com/564x/8e/29/4a/8e294a14425bae218fb99b8d72e11981.jpg"  />
-
-###
-
 
 
 ###
