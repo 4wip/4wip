@@ -1,16 +1,5 @@
 <h2 align="left">Hey👋! Je suis 4wip et je suis un mini-developeur en C#</h2>
 
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/channel/UCsSSvEAcougZuKYsJObMKKg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube%20Channel&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://discord.gg/A5bfyv3AzB" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord%20Server&logo=discord&label=30&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
-
 
 
 ###
