@@ -1,4 +1,4 @@
-<h2 align="left">Hey👋! Je suis 4wip et je suis un mini-developeur en C#</h2>
+<h2 align="left">Hey👋! Je suis 4wip et je suis un developeur en C#</h2>
 
 
 
