@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">✗ Hi, I'm Hayate<br>✗ Javascript<br>✗ Simplicity<br><br> Discord: .hayate.</h4> | Server: https://dsc.gg/4wip
+<h4 align="left">✗ Hi, I'm Hayate<br>✗ Javascript<br>✗ Simplicity<br><br> Discord: .hayate.</h4> Serveur: https://dsc.gg/4wip
 
 ###
 
