@@ -2,8 +2,7 @@
 
 ###
 
-<h4 align="left">✗ Hi, I'm Hayate<br>✗ Javascript<br>✗ Simplicity<br><br> Discord: .hayate.</h4>
-
+<h4 align="left">✗ Hi, I'm 4wip<br>✗ Javascript<br>✗ end<br><br>
 ###
 
 <div align="center">
