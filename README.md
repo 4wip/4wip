@@ -1,5 +1,4 @@
 <div align="center">
-Discord: 4wip<br>
 Serveur: <a href="https://dsc.gg/4wip">https://dsc.gg/4wip</a><br><br>
 
   <img src="https://github-readme-stats.vercel.app/api?username=4wip&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=true" height="150" alt="stats graph" />
