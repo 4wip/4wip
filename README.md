@@ -1,1 +1,1 @@
-<a href="https://ibb.co/1fNVt1Gd"><img src="https://i.ibb.co/0jLNRTyF/IMG-20251117-005931.png" alt="IMG-20251117-005931" border="0"></a>
+<a href="https://ibb.co/1fNVt1Gd"><img src="https://i.ibb.co/0jLNRTyF/IMG-20251117-005931.png" alt="IMG-20251117-005931" border="l"></a>
